@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shashwat Kumar Trivedi👋</h1>
-<h3 align="center">I'm a passionate Full Stack Developer with a strong background in designing from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer with a strong background in designing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0hammerhead0&label=Profile%20views&color=0e75b6&style=flat" alt="0hammerhead0" /> </p>
 
